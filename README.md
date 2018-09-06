@@ -15,7 +15,7 @@ The output fields u and w_r are saved in raw binary format; float32 x,y,t ordere
 # Running the Examples
 
 To run the different experiments from the paper change the variable 'example' in scriptOptimizeObserverField and scriptResampleObservedField.
-The examples 'Cylinder2D' and 'ocean' require additional datasets. [https://www.dropbox.com/sh/gp5zvjbw2zui53l/AAC7X1BpGoPbcaPrEUtgZChna?dl=0 Download the data set archive],
+The examples 'Cylinder2D' and 'ocean' require additional datasets. [Download the data set archive](https://www.dropbox.com/s/t4k5te6usafailt/data.zip?dl=0 "data"),
 extract the archive and put it in the 'data' folder before running the examples.
 
 # Acknowledgements
