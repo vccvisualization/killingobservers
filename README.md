@@ -33,7 +33,8 @@ The Cylinder2D data set was simulated by Tino Weinkauf [3], using the Free Softw
  volume = {25},
  number = {1},
  pages = {to appear}
-}```
+}
+```
 
 # Contact: 
 
