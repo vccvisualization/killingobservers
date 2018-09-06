@@ -1,4 +1,5 @@
 Copyright (C) 2018 King Abdullah University Of Science and Technology 
+
 [High-Performance Visualization Group](http://vccvisualization.org/)
 # Time-Dependent Flow seen through Approximate Observer Killing Fields
 
@@ -20,7 +21,7 @@ extract the archive and put it in the 'data' folder before running the examples.
 
 # Acknowledgements
 
-The ocean data set is produced by SSALTO/DUACS, distributed by AVISO, with support from CNES (http://www.aviso.oceanobs.com/duacs), and made available in the work of Haller et al. [2].
+The ocean data set is produced by SSALTO/DUACS, distributed by [AVISO, with support from CNES](http://www.aviso.oceanobs.com/duacs), and made available in the work of Haller et al. [2].
 The Cylinder2D data set was simulated by Tino Weinkauf [3], using the Free Software 'Gerris Flow Solver' [4].
 
 # Citation
@@ -44,7 +45,7 @@ Matej Mlejnek matej.mlejnek@kaust.edu.sa
 
 # References:
 
-[1] Hadwiger, M., Mlejnek, M.,  Theussl, T., Rautek, P., [http://vccvisualization.org/research/killingobservers/](Time-Dependent Flow seen through Approximate Observer Killing Fields). IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018), 25(1), 2019.
+[1] Hadwiger, M., Mlejnek, M.,  Theussl, T., Rautek, P., [Time-Dependent Flow seen through Approximate Observer Killing Fields](http://vccvisualization.org/research/killingobservers/). IEEE Transactions on Visualization and Computer Graphics (Proceedings IEEE Scientific Visualization 2018), 25(1), 2019.
 
 [2] Haller, G., Hadjighasem, A., Farazmand, M., Huhn, F., Defining coherent vortices objectively from the vorticity. Journal of Fluid Mechanics, 795, 136-173, 2016. 
 
